@@ -4,14 +4,14 @@
 - 🔭 I’m interested in **web/mobile development**.
 - 👯 I’m looking to collaborate on opensource projects.
 - 🤔 I’m looking for help in some of my repositories.
-- 📖 I'm actually learning:
+- 📖 I'm currently learning :
   - Effective integration tests
   - Software architectures
   - Advanced styling techniques
   - Node.js server-side development
   
 
-- 💬 Ask me good in:
+- 💬 Ask me about :
     - Users/clients expectations
     - Problem-solving & business logic
     - Dev techs & software testing
@@ -33,32 +33,20 @@ Modeling is important too, the diagrams help to show many important aspects:
 
 Alongside with good documentation and tests (These are my passion 💙)
 
-## Languages
+## Backend Languages
 
 <div>
-  <a href="https://www.uml.org/" target="_blank" rel="noreferrer">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="uml" width="70" height="70"/>
-  </a>
   <a href="https://dev.java/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="70" height="70"/>
+     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="100" height="100"/>
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-     <img src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png" alt="mysql" width="70" height="70"/>
-  </a>
-  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="70" height="70"/>
-  </a>
-  <a href="https://www.xml.com/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg" alt="xml" width="70" height="70"/>
-  </a>
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1200px-Official_YAML_Logo.svg.png" alt="yaml" width="70" height="70"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="mysql" width="100" height="100"/>
   </a>
 </div>
 
-## Frameworks / Tools 
+## Backend Techs
 
-<div>
+<div style="flex-direction: row; justify-content: space-between">
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="70" height="50"/>
   </a>
@@ -67,6 +55,12 @@ Alongside with good documentation and tests (These are my passion 💙)
   </a>
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="restful" width="60" height="60"/>
+  </a>
+  <a href="https://www.uml.org/" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="uml" width="70" height="70"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="80" height="70"/>
   </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" alt="tomcat" style="margin-left: -12px; margin-right: -12px" width="70" height="50"/>
@@ -89,6 +83,15 @@ Alongside with good documentation and tests (These are my passion 💙)
   <a href="https://oauth.net/" target="_blank" rel="noreferrer">
      <img src="https://brandeps.com/logo-download/O/Oauth-logo-vector-01.svg" alt="oauth" width="70" height="70"/>
   </a>
+  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="70" height="70"/>
+  </a>
+  <a href="https://www.xml.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg" alt="xml" width="70" height="70"/>
+  </a>
+  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1200px-Official_YAML_Logo.svg.png" alt="yaml" width="70" height="70"/>
+  </a>
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
      <img src="https://vectorwiki.com/images/vynW5__sonarqube.svg" alt="sonar" width="100" height="70"/>
   </a>
@@ -103,7 +106,7 @@ I think that modern apps require worthy design, and that's **essential**, that's
 For me, any client-side application (web/mobile) connected to remote APIs, **must be protected**. 
 I do not agree to make sensitive decisions like calculations or data conversions in client-side, when there is a server.
 
-## Languages
+## Frontend Languages
 
 <div>   
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
@@ -121,7 +124,7 @@ I do not agree to make sensitive decisions like calculations or data conversions
 
 </div>
 
-## Frameworks / Tools
+## Frontend Techs
 
 <div>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -154,9 +157,12 @@ I do not agree to make sensitive decisions like calculations or data conversions
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/> 
   </a>
+  <a href="https://docusaurus.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-official.svg" alt="docusaurus" width="70" height="70"/> 
+  </a>
 </div>
 
-# Profile trophy
+# Profile Trophies
 
 <div>
 <img alt="firas-rg-trophy" src="https://github-profile-trophy.vercel.app/?username=firasrg&margin-w=15"/>
@@ -168,5 +174,5 @@ I do not agree to make sensitive decisions like calculations or data conversions
 <img alt="firasrg-github" src="https://visitor-count-b8lb.vercel.app/api/firasrg"/>
 </div>
 
-
-
+# Thanks 💙
+Thank you for your interest in my GitHub profile. Feel free to follow or contact me.
