@@ -4,123 +4,39 @@
 
 # Table Of Content
 - [Summary](#summary)
-- [Server-side Dev](#server-side-dev)
-- [Client-side Dev](#client-side-dev)
+- [Frontend](#frontend)
+- [Backend](#backend)
 - [Activities Recap](#activities-recap)
 - [Contact me](#contact-me)
 
 # Summary
-- 🔭 I’m interested in **web/mobile development**.
+- 🔭 I’m interested in web/mobile development and services.
 - 👯 I’m looking to collaborate on opensource projects.
-- 🤔 I’m looking for help in some of my repositories.
+- 🤔 I think about creating some projects.
 - 📖 I'm currently learning :
-  - Effective integration tests
-  - Software architectures
-  - Advanced styling techniques
-  - Node.js server-side development
-  
+  - Software testing
+  - Styling techniques in Web and Mobile apps.
+  - Architectures
 
-- 💬 Ask me about :
-    - Users/clients expectations
+- 💬 I like to talk about :
+    - Modeling and diagramming
+    - Stakeholders expectations
     - Problem-solving & business logic
-    - Dev techs & software testing
+    - New technologies & testing
     - Work methodologies & team management
-    - Writing documentation
+    - Documentation
     
-# Server-side Dev
+In the next sections, I introduce my FullStack philosophy & skills. 
 
-Generally, I focus on security, quality, robustness and performance. I consider analyzing business problems and objectives 
-are **the hard part** in software development rather than just coding (with quick analysis).
+# Frontend
+I prioritize quality, robustness, performance, and styling in my projects.
 
-Modeling is important too, the diagrams help to show many important aspects:
-- The project roadmap 
-- Actors
-- Scenarios
-- Relationships
-- Possible bugs
-- Anti-patterns
-- Design Patterns
+I strongly believe that modern apps require exceptional design, which is **essential** for a great user experience. 
+That's why I consider having a skilled designer as a mandatory part of any project.
 
-Alongside with good documentation and tests (These are my passion 💙)
-
-I have solid experience with the following languages and tools:
-
-<div style="flex-direction: row; justify-content: space-between">
-<a href="https://dev.java/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="70" height="70"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="70" height="70"/>
-  </a>
-  <a href="https://www.jpa-buddy.com/" target="_blank" rel="noreferrer">
-     <img src="https://plugins.jetbrains.com/files/15075/296642/icon/pluginIcon.png" alt="mysql" width="70" height="70"/>
-  </a>
-  <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" alt="lombok" width="60" height="60"/>
-  </a>
-  <a href="https://www.h2database.com/html/main.html" target="_blank" rel="noreferrer"> 
-   <img src="https://avatars.githubusercontent.com/u/11459762?s=280&v=4" alt="h2db" width="70" height="70"/>
-  </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-     <img src="https://junit.org/junit4/images/junit5-banner.png" alt="junit" width="70" height="60"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-     <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="80" height="50"/>
-  </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="restful" width="60" height="60"/>
-  </a>
-  <a href="https://www.uml.org/" target="_blank" rel="noreferrer">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="uml" width="70" height="70"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" style="padding-left: 5px" width="80" height="70"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" alt="tomcat" style="margin-left: -12px; margin-right: -12px" width="80" height="60"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://vectorwiki.com/images/v21Kn__swaggerhub.svg" alt="swagger" width="60" height="60"/>
-  </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://vectorwiki.com/images/gPR02__hibernate.svg" alt="hibernate" width="60" height="60"/>
-  </a>
-  <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
-     <img src="https://store-images.s-microsoft.com/image/apps.33676.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.f66ed402-0b4a-4d56-b8bb-7a38a1220f09" alt="diagrams" width="70" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="70"/>
-  </a>
-  <a href="https://oauth.net/" target="_blank" rel="noreferrer">
-     <img src="https://brandeps.com/logo-download/O/Oauth-logo-vector-01.svg" alt="oauth" width="70" height="70"/>
-  </a>
-  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="70" height="70"/>
-  </a>
-  <a href="https://www.xml.com/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg" alt="xml" width="70" height="70"/>
-  </a>
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1200px-Official_YAML_Logo.svg.png" alt="yaml" width="70" height="70"/>
-  </a>
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-     <img src="https://vectorwiki.com/images/vynW5__sonarqube.svg" alt="sonar" width="100" height="70"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/>
-  </a>
-</div>
-
-# Client-side Dev
-Generally, I focus on quality, robustness, performance and styling.
-
-I think that modern apps require worthy design, and that's **essential**, that's why a designer is mandatory. 
-
-For me, any client-side application (web/mobile) connected to remote APIs, **must be protected**. 
-I do not agree to make sensitive decisions like calculations or data conversions in client-side, when there is a server.
+When it comes to frontend applications (web/mobile) connected to remote APIs, security is of utmost importance to me. 
+I firmly believe that sensitive decisions like calculations or data conversions should not be made on the client-side when a server is available. 
+Protecting the data and ensuring secure interactions with APIs is always a priority in my development process.
 
 I have solid experience with the following languages and tools:
 
@@ -175,6 +91,121 @@ I have solid experience with the following languages and tools:
   </a>
 </div>
 
+# Backend
+I prioritize security, quality, robustness, and performance. I strongly believe that analyzing business problems and objectives 
+is **the hard part** in software development, as it requires thorough understanding and quick analysis, rather than just focusing on coding.
+
+I also recognize the significance of modeling in the development process. Diagrams play a crucial role in showcasing various important aspects of a project, such as:
+- A roadmap 🗺
+- Actors involved 🎭
+- Scenarios and use cases
+- Components and services 
+- Design Patterns ✅
+- Anti-patterns ❌
+- Possible errors
+- Alternatives
+- Conditions
+
+In addition to modeling, I place great emphasis on maintaining good documentation and comprehensive tests. 
+Documentation serves as **a valuable resource** for developers and stakeholders alike, while tests ensure the reliability 
+and stability of a software.
+
+These aspects are my passion, and I take pride in delivering well-documented and thoroughly tested solutions.
+
+I have solid experience with the following languages and tools:
+
+<div style="flex-direction: row; justify-content: space-between">
+  <a href="https://dev.java/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="70" height="70"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="70" height="70"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intellijIdea" width="70" height="70"/>
+  </a>
+  <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" alt="lombok" width="60" height="60"/>
+  </a>
+  <a href="https://www.h2database.com/html/main.html" target="_blank" rel="noreferrer"> 
+   <img src="https://avatars.githubusercontent.com/u/11459762?s=280&v=4" alt="h2db" width="70" height="70"/>
+  </a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+     <img src="https://junit.org/junit4/images/junit5-banner.png" alt="junit" width="70" height="60"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+     <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="80" height="50"/>
+  </a>
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="restful" width="60" height="60"/>
+  </a>
+  <a href="https://www.uml.org/" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="uml" width="70" height="70"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" style="padding-left: 5px" width="80" height="70"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" alt="tomcat" style="margin-left: -12px; margin-right: -12px" width="80" height="60"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+  </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://vectorwiki.com/images/v21Kn__swaggerhub.svg" alt="swagger" width="60" height="60"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://vectorwiki.com/images/gPR02__hibernate.svg" alt="hibernate" width="60" height="60"/>
+  </a>
+  <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
+     <img src="https://store-images.s-microsoft.com/image/apps.33676.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.f66ed402-0b4a-4d56-b8bb-7a38a1220f09" alt="diagrams" width="70" height="50"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="70"/>
+  </a>
+  <a href="https://oauth.net/" target="_blank" rel="noreferrer">
+     <img src="https://brandeps.com/logo-download/O/Oauth-logo-vector-01.svg" alt="oauth" width="70" height="70"/>
+  </a>
+  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="70" height="70"/>
+  </a>
+  <a href="https://www.xml.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg" alt="xml" width="70" height="70"/>
+  </a>
+  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1200px-Official_YAML_Logo.svg.png" alt="yaml" width="70" height="70"/>
+  </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
+     <img src="https://vectorwiki.com/images/vynW5__sonarqube.svg" alt="sonar" width="100" height="70"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/>
+  </a>
+</div>
+
+# Backend & Frontend: Which One First or Both at the Same Time?
+
+When starting a new project, I usually begin with the frontend side once **a [design prototype](https://en.wikipedia.org/wiki/Software_prototyping) is ready**. 
+This approach offers several advantages, including the ability to quickly showcase the app to [stakeholders](https://en.wikipedia.org/wiki/Project_stakeholder).
+
+By starting with the frontend, I can create a **static representation** of the application that closely resembles the final product. 
+This allows stakeholders to visualize the design, interact with the user interface, and provide valuable feedback early 
+on in the development process. 
+
+👉 This rapid feedback loop enables faster iterations and helps ensure that the final product aligns with their expectations.
+
+However, it's important to note that while starting with the frontend allows for quick stakeholder engagement, it doesn't 
+diminish the importance of backend dev phase.
+
+To ensure a successful project, **it's crucial** to balance frontend and backend 
+development efforts. This includes considering factors like [system modeling](https://en.wikipedia.org/wiki/Systems_modeling),
+defining scenarios and actors, and write [documentation](https://en.wikipedia.org/wiki/Software_documentation). 
+To avoid antipatterns down the line.
+
+By striking a balance ⚖️between frontend and backend, I aim to create robust and cohesive applications that meet both user expectations 
+and technical requirements ✅✅.
+
+
 # Activities Recap
 <div style="display: flex; flex-direction: column; justify-content: space-between">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasrg&" alt="firasrg" /></p>
@@ -185,9 +216,8 @@ I have solid experience with the following languages and tools:
 
 # Contact me
 <p align="left">
-<a href="https://linkedin.com/in/firas-rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firas-rg" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/10000150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10000150" height="40"/></a>
 <a href="https://discord.gg/NKeddwVR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FRG#5942" height="50" /></a>
+<a href="https://linkedin.com/in/firas-rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firas-rg" height="40" width="50" /></a>
 </p>
 
-Thank you for your interest in my GitHub profile.
+Thank you for your interest in my GitHub profile!
