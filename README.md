@@ -216,7 +216,7 @@ and technical requirements ✅✅.
 
 # Contact me
 <p align="left">
-<a href="https://discord.gg/NKeddwVR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FRG#5942" height="50" /></a>
+<a href="https://discord.gg/hrbvdnAE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FRG#5942" height="50" /></a>
 <a href="https://linkedin.com/in/firas-rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firas-rg" height="40" width="50" /></a>
 </p>
 
