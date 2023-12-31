@@ -7,7 +7,7 @@
 - [Frontend](#frontend)
 - [Backend](#backend)
 - [Activities Recap](#activities-recap)
-- [Contact me](#contact-me)
+- [Contact me](#join-me-on-discord)
 
 # Summary
 - 🔭 I’m interested in web/mobile development and services.
@@ -214,10 +214,7 @@ and technical requirements ✅✅.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firasrg" alt="firasrg" /></a> </p>
 </div>
 
-# Contact me
-<p align="left">
-<a href="https://discord.gg/hrbvdnAE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FRG#5942" height="50" /></a>
-<a href="https://linkedin.com/in/firas-rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firas-rg" height="40" width="50" /></a>
-</p>
+## Join Me On Discord
+<p align="left"><a href="https://discord.gg/SBmz8MQqZc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FRG#5942" height="50" /></a></p>
 
-Thank you for your interest in my GitHub profile!
+Thank you for your interest in my GitHub profile.
