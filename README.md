@@ -1,13 +1,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=firasrg&label=Profile%20views&color=0e75b6&style=flat" alt="firasrg" /> </p>
 
-<img src="https://media3.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47on3hx4gjqv62yxwtkuhbyf4a1n9pghohrbkxffvq&rid=giphy.gif&ct=g" width="100%" height="180px"  alt="welcome"/>
-
 # Table Of Content
 - [Summary](#summary)
 - [Frontend](#frontend)
 - [Backend](#backend)
 - [Activities Recap](#activities-recap)
-- [Contact me](#join-me-on-discord)
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+<div style="flex: 0.75">
 
 # Summary
 - 🔭 I’m interested in web/mobile development and services.
@@ -25,7 +25,10 @@
     - New technologies & testing
     - Work methodologies & team management
     - Documentation
-    
+</div>
+<img style="margin-top: 15px" src="./workspace.gif" height="500" alt=""/>
+</div>
+
 In the next sections, I introduce my FullStack philosophy & skills. 
 
 # Frontend
@@ -213,8 +216,3 @@ and technical requirements ✅✅.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firasrg&show_icons=true&locale=en&layout=compact" alt="firasrg" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firasrg" alt="firasrg" /></a> </p>
 </div>
-
-## Join Me On Discord
-<p align="left"><a href="https://discord.gg/SBmz8MQqZc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FRG#5942" height="50" /></a></p>
-
-Thank you for your interest in my GitHub profile.
