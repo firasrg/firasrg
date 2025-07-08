@@ -39,7 +39,6 @@ I bring expertise in both frontend and backend development, with a focus on crea
 
 ## Activities Recap
 <div style="display: flex; flex-direction: column; justify-content: space-between">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasrg&" alt="firasrg" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firasrg&show_icons=true&locale=en" alt="firasrg" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firasrg&show_icons=true&locale=en&layout=compact" alt="firasrg" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firasrg" alt="firasrg" /></a> </p>
