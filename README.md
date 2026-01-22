@@ -8,6 +8,11 @@
 - [Projects](#projects)
 - [Activities Recap](#activities-recap)
 
+### GitHub unofficial community on Discord
+Launching **GitHub Connect**: real-time Discord for GitHub users Copilot bugs • Actions help • Outages • Projects tips • Repo shares"
+
+[Join us now](https://discord.gg/qFGSQAUyQU)
+
 ## About Me
 I'm a Senior Full-Stack Developer with over 8 years of experience building robust web and mobile applications. Passionate about clean code, system modeling, and delivering exceptional user experiences, I specialize in Java, Spring Boot, React, and DevOps practices. I’m actively involved in open-source projects and enjoy mentoring developers while exploring new technologies.
 
